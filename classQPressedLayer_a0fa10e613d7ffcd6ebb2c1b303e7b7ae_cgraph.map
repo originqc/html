@@ -1,0 +1,7 @@
+<map id="QPressedLayer::gates_sink_to_topolog_sequence" name="QPressedLayer::gates_sink_to_topolog_sequence">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,207,77"/>
+<area shape="rect" id="Node000002" href="$classQPressedLayer.html#a206b4cc90d0cce26389fdc1ae0b5e99a" title=" " alt="" coords="255,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,41,241,36,242,42,207,46"/>
+<area shape="rect" id="Node000003" href="$classQPressedLayer.html#ad8ca372c4d657884692fb89781b98525" title="Check for duplicate qubits." alt="" coords="259,69,425,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,68,246,74,246,79,207,74"/>
+</map>

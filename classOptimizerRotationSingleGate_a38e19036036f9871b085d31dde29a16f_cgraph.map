@@ -1,0 +1,9 @@
+<map id="OptimizerRotationSingleGate::do_optimize" name="OptimizerRotationSingleGate::do_optimize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,217,77"/>
+<area shape="rect" id="Node000002" href="$classOptimizerRotationSingleGate.html#a10ddacfedd89ecf3e42e968d5f956ad7" title=" " alt="" coords="265,37,491,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,55,252,55,252,60,217,60"/>
+<area shape="rect" id="Node000003" href="$classOptimizerRotationSingleGate.html#a91b0b151b72cb2f27ec5a489dcd6e89b" title=" " alt="" coords="539,5,751,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,41,525,37,525,42,491,46"/>
+<area shape="rect" id="Node000004" href="$classOptimizerRotationSingleGate.html#ac5f1031a7ae2f82a940220acb511156c" title=" " alt="" coords="539,69,751,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,68,525,72,525,78,491,74"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="PlanarityTest::is_planar" name="PlanarityTest::is_planar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,179,203"/>
+<area shape="rect" id="Node000002" href="$classPlanarityTest.html#a7475fba29708b72d3ef3e4b176c6dba4" title=" " alt="" coords="268,29,415,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,175,150,121,186,90,225,64,254,52,256,57,228,68,189,94,154,124,105,179"/>
+<area shape="rect" id="Node000005" href="$classPlanarityTest.html#ab254d0d64227677e5586299f3baa0a43" title=" " alt="" coords="268,103,415,128"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="122,175,226,137,257,129,259,134,227,142,124,180"/>
+<area shape="rect" id="Node000010" href="$classGraph.html#aaeab2879698d70da09b9dc1dd7458682" title=" " alt="" coords="268,152,415,177"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="179,179,254,171,255,176,179,184"/>
+<area shape="rect" id="Node000011" href="$classPlanarityTest.html#af97a636b6ba1470a624d63f4b993fab1" title=" " alt="" coords="251,201,432,227"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="179,196,237,201,237,207,179,201"/>
+<area shape="rect" id="Node000012" href="$classGraph.html#a82ba0dea33c4767025e2acb3fb79c4a9" title=" " alt="" coords="575,277,670,303"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="124,200,172,219,227,235,318,254,409,268,562,284,562,289,409,273,317,259,226,241,170,224,122,205"/>
+<area shape="rect" id="Node000013" href="$classPlanarityTest.html#ae23830121d8dd073c0bc640a70cc4ff3" title=" " alt="" coords="227,303,456,328"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="110,201,160,240,228,281,268,296,266,301,225,286,157,244,106,205"/>
+<area shape="rect" id="Node000003" href="$classPlanarityTest.html#aaadae9abfe8c2dfe1252baaa65429f30" title=" " alt="" coords="543,29,703,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,39,529,39,529,45,415,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="580,31,570,21,575,11,593,5,623,3,661,7,671,12,675,18,670,20,668,16,659,12,623,8,594,10,579,15,576,20,583,27"/>
+<area shape="rect" id="Node000004" href="$classGraph.html#aa1bffd0f8c0651655955beb7cbeed3b7" title=" " alt="" coords="789,29,992,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="703,39,776,39,776,45,703,45"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="301,104,292,94,297,84,314,78,341,76,376,80,386,85,390,90,386,93,383,89,375,85,341,81,315,83,301,88,298,94,305,101"/>
+<area shape="rect" id="Node000006" href="$classPlanarityTest.html#a1fafe83b7baec02bd083eac9fbb82c77" title=" " alt="" coords="504,91,741,116"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="415,110,490,106,490,112,415,115"/>
+<area shape="rect" id="Node000008" href="$classPlanarityTest.html#a84a39c4693fc97e2c67e11a2fdb3c469" title=" " alt="" coords="517,141,729,181"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="415,124,504,139,503,144,414,130"/>
+<area shape="rect" id="Node000007" href="$classPlanarityTest.html#a2bb0f95691abf6d6acff62cea76848b9" title=" " alt="" coords="800,91,981,116"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="742,101,786,101,786,106,742,106"/>
+<area shape="rect" id="Node000009" href="$classPlanarityTest.html#af564c64ecdb232fd9ecdd7cc3e0b3070" title=" " alt="" coords="812,148,969,173"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="729,158,798,158,798,163,729,163"/>
+<area shape="poly" id="edge15_Node000013_Node000012" title=" " alt="" coords="456,302,561,293,562,298,456,308"/>
+</map>

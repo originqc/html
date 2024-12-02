@@ -1,0 +1,11 @@
+<map id="QPressedLayer::process" name="QPressedLayer::process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,183,70"/>
+<area shape="rect" id="Node000002" href="$classQPressedLayer.html#a8803b74cf01570f6ef723786ae39db95" title=" " alt="" coords="244,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,43,230,36,231,42,183,48"/>
+<area shape="rect" id="Node000003" href="$classQPressedLayer.html#a0fa10e613d7ffcd6ebb2c1b303e7b7ae" title=" " alt="" coords="231,69,432,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,67,217,71,217,77,182,72"/>
+<area shape="rect" id="Node000004" href="$classQPressedLayer.html#a206b4cc90d0cce26389fdc1ae0b5e99a" title=" " alt="" coords="480,37,655,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,73,466,68,467,74,433,78"/>
+<area shape="rect" id="Node000005" href="$classQPressedLayer.html#ad8ca372c4d657884692fb89781b98525" title="Check for duplicate qubits." alt="" coords="485,101,650,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="433,100,472,106,471,111,432,106"/>
+</map>

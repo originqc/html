@@ -1,0 +1,9 @@
+<map id="QProgLayerByClock::get_node_clock" name="QProgLayerByClock::get_node_clock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,164,117"/>
+<area shape="rect" id="Node000002" href="$classQProgLayerByClock.html#a45fdd152523d63592fc77fa9458124de" title=" " alt="" coords="217,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,75,211,55,239,46,241,52,213,60,149,80"/>
+<area shape="rect" id="Node000003" href="$classQProgLayerByClock.html#a67211ce7dfea89f0f3097ebf660eca3a" title=" " alt="" coords="244,70,407,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,95,230,95,230,100,165,100"/>
+<area shape="rect" id="Node000004" href="$classQProgLayerByClock.html#a2d507a357f4d50cfdd9fb1ac4cebb92a" title=" " alt="" coords="212,149,439,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,115,213,133,244,143,243,148,211,139,151,120"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BoxOnWire" name="BoxOnWire">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,79,173,104"/>
+<area shape="rect" id="Node000003" href="$classBoxOnClWire.html" title=" " alt="" coords="5,152,113,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,116,72,154,68,150,104,113"/>
+<area shape="rect" id="Node000004" href="$classBoxOnQuWire.html" title=" " alt="" coords="137,152,251,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,112,185,150,181,154,145,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,44,129,79,123,79,123,44"/>
+</map>

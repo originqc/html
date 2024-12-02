@@ -1,0 +1,14 @@
+<map id="OpenQasmParser::translateBlockOperations" name="OpenQasmParser::translateBlockOperations">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,205,77"/>
+<area shape="rect" id="Node000002" href="$classOpenQasmParser.html#a5537a4fa367c3438bfb599f157ae5f50" title=" " alt="" coords="253,37,452,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,55,239,55,239,60,205,60"/>
+<area shape="rect" id="Node000003" href="$classOpenQasmParser.html#ab4122ed84af4bf9adbba3de3f0c57885" title=" " alt="" coords="500,5,739,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,52,510,45,511,50,453,57"/>
+<area shape="rect" id="Node000005" href="$classOpenQasmParser.html#a9be9d0107bc41f73f9810e61790006a1" title=" " alt="" coords="513,69,726,109"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="453,67,499,72,499,78,452,72"/>
+<area shape="rect" id="Node000006" href="$classOpenQasmParser.html#af5cf97ca940c0303328e3ed514dab060" title=" " alt="" coords="515,133,724,173"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="397,75,501,119,525,127,524,132,499,124,394,80"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="500,33,462,38,461,33,499,28"/>
+<area shape="rect" id="Node000004" href="$classOpenQasmParser.html#a6db7d6c65496adb571f72aebb0dd781e" title=" " alt="" coords="787,13,1005,38"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="739,23,773,23,773,28,739,28"/>
+</map>
