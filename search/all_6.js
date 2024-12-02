@@ -4,7 +4,7 @@ var searchData=
   ['back_5fends_1',['BACK_ENDS',['../JsonConfigParam_8cpp.html#a35d0b32149666613d13979759850e04a',1,'JsonConfigParam.cpp']]],
   ['barrierbridgeline_2',['BarrierBridgeLine',['../classBarrierBridgeLine.html',1,'BarrierBridgeLine'],['../classBarrierBridgeLine.html#a90e1d58cf07e06ae63fecc56f54e68a6',1,'BarrierBridgeLine::BarrierBridgeLine()']]],
   ['barrierline_3',['BarrierLine',['../classBarrierLine.html',1,'BarrierLine'],['../classBarrierLine.html#a51a63d27afaa2ab811b430ec9be27fc6',1,'BarrierLine::BarrierLine()']]],
-  ['bbbb_4',['BBBB',['../group__group1.html#autotoc_md16',1,'']]],
+  ['bbbb_4',['BBBB',['../group__group1.html#autotoc_md17',1,'']]],
   ['benchmarkinggate_2ecpp_5',['BenchmarkingGate.cpp',['../BenchmarkingGate_8cpp.html',1,'']]],
   ['bit_5fsize_6',['BIT_SIZE',['../CrossEntropyBenchmarking_8cpp.html#a6f90ba84959e4dd71225187b8630fe79',1,'CrossEntropyBenchmarking.cpp']]],
   ['black_5fprismatic_5fchar_7',['BLACK_PRISMATIC_CHAR',['../DrawTextPic_8cpp.html#acebf964d27a53b31229c11bd687d25c2',1,'DrawTextPic.cpp']]],

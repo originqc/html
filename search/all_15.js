@@ -42,7 +42,7 @@ var searchData=
   ['qnodemanager_2ecpp_39',['QNodeManager.cpp',['../QNodeManager_8cpp.html',1,'']]],
   ['qnoise_2ecpp_40',['QNoise.cpp',['../QNoise_8cpp.html',1,'']]],
   ['qpanda_41',['QPanda',['../namespaceQPanda.html',1,'QPanda'],['../index.html',1,'Welcome to QPanda']]],
-  ['qpanda_42',['welcome to qpanda',['../namespacewh01_1_1dnn01.html#autotoc_md12',1,'']]],
+  ['qpanda_42',['welcome to qpanda',['../namespacewh01_1_1dnn01.html#autotoc_md13',1,'']]],
   ['qpanda_20python_20tutorials_43',['QPanda-Python Tutorials',['../tutorial_py_root.html',1,'']]],
   ['qpanda_20tutorials_44',['QPanda Tutorials',['../tutorial_root.html',1,'']]],
   ['qpanda_3a_3aget_5fparse_5fresult_3c_20std_3a_3amap_3c_20std_3a_3astring_2c_20double_20_3e_20_3e_45',['get_parse_result&lt; std::map&lt; std::string, double &gt; &gt;',['../QRabbit_8cpp.html#acbd69bc95a4207bbad4e8545ca1df530',1,'QRabbit.cpp']]],

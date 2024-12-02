@@ -29,7 +29,7 @@ var searchData=
   ['pyquilparser_2ecpp_26',['pyquilParser.cpp',['../pyquilParser_8cpp.html',1,'']]],
   ['pyquiltooriginir_2ecpp_27',['PyquilToOriginIR.cpp',['../PyquilToOriginIR_8cpp.html',1,'']]],
   ['pyquilvisitor_2ecpp_28',['pyquilVisitor.cpp',['../pyquilVisitor_8cpp.html',1,'']]],
-  ['python_20代码实现_29',['Python 代码实现',['../classJavadoc__Test.html#autotoc_md10',1,'']]],
-  ['python_20代码示例_30',['Python 代码示例',['../classJavadoc__Test.html#autotoc_md9',1,'']]],
+  ['python_20代码实现_29',['Python 代码实现',['../classJavadoc__Test.html#autotoc_md11',1,'']]],
+  ['python_20代码示例_30',['Python 代码示例',['../classJavadoc__Test.html#autotoc_md10',1,'']]],
   ['python_20tutorials_31',['QPanda-Python Tutorials',['../tutorial_py_root.html',1,'']]]
 ];
